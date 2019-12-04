@@ -5,7 +5,7 @@
 go run main.go
 ```
 
-## view page on your broser:
+## view page on your browser:
 
 ```
 http://localhost:8080
