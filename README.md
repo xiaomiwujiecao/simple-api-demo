@@ -4,3 +4,9 @@
 ```
 go run main.go
 ```
+
+## view page on your broser:
+
+```
+http://localhost:8080
+```
